@@ -1,0 +1,12 @@
+21312
+345654public static void writeFile (String path) throws I0Exception
+           if (checkFileExists(path)){
+               Scanner scanner = new Scanner (System.in);
+               System. out.println("Moi b nhap nôi dung");
+               String content = scanner. nextLine();
+               FileOutputStream fileOutputStream = new FileOutputStream(path,
+                                                                                append: true);
+               // Xuong dòng
+               fileOutputStream. write (System. getProperty("line. separator") .getBytes());
+              fileOutputStream. write (content. .getBytes());
+              fileOutputStrean.close0;

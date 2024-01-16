@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c385b9f0-ee5d-4fba-b42a-02c444ecfd27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2NbIaWBNwcKoHTUcy2gbkUtE4Yp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/HelloWorld-Start-Hibernate" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.15174508" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laiho\OneDrive\Documents\Railway66\javacore\final_exam_lai_the_anh\src\main\java\com\vti\entity" />
+      <recent name="C:\Users\laiho\OneDrive\Documents\Railway66\javacore\final_exam_lai_the_anh\src\main\resources" />
+      <recent name="C:\Users\laiho\OneDrive\Documents\Railway66\javacore\final_exam_lai_the_anh\src\main\java\com\vti\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laiho\OneDrive\Documents\Railway66\javacore\final_exam_1\src\main\java\com\vti\utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vti.entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Program">
+    <configuration name="JdbcUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.utils.JdbcUtils" />
+      <module name="final_exam_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.frontend.Program" />
+      <module name="final_exam_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fifinal_66.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/main/resources/fifinal_66.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Database Script.fifinal_66.sql" />
+        <item itemvalue="Application.JdbcUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c385b9f0-ee5d-4fba-b42a-02c444ecfd27" name="Default Changelist" comment="" />
+      <created>1679926419244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679926419244</updated>
+      <workItem from="1679926420706" duration="1741000" />
+      <workItem from="1680091894630" duration="598000" />
+      <workItem from="1680138258371" duration="596000" />
+      <workItem from="1680154344069" duration="10000" />
+      <workItem from="1680264033641" duration="7273000" />
+      <workItem from="1680480754311" duration="914000" />
+      <workItem from="1680524646683" duration="608000" />
+      <workItem from="1680525562571" duration="1103000" />
+      <workItem from="1680620857099" duration="752000" />
+      <workItem from="1680701776042" duration="517000" />
+      <workItem from="1680702329420" duration="3355000" />
+      <workItem from="1681129406961" duration="31000" />
+      <workItem from="1681271305061" duration="9000" />
+      <workItem from="1682078308501" duration="7000" />
+      <workItem from="1682096163073" duration="16000" />
+      <workItem from="1682294939844" duration="1905000" />
+      <workItem from="1682347345934" duration="538000" />
+      <workItem from="1685093172888" duration="30000" />
+      <workItem from="1685353814929" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

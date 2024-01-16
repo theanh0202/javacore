@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9f84615-6f48-499e-8b21-c78af4b2d11e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources/597e4b9d-8ff9-48a9-9e1f-72c8b052787b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dataSources/597e4b9d-8ff9-48a9-9e1f-72c8b052787b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/backend/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/frontend/Function2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/frontend/Function2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/frontend/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/java/com/vti/frontend/Program2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/src/main/resources/department.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/src/main/resources/department.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/service/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/service/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/backend/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/frontend/Function2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/frontend/Function2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/frontend/Program2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingSystem10/target/classes/com/vti/frontend/Program2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/vti/frontend/TuyenSinh.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2MV8NaBpLMSHhr1Z5PEpP62AD8x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testing_system_8,9" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.vti.entyti" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laiho\OneDrive\Documents\Railway66\javacore\Testing_system_4\data" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.vti.entity.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DemoFile">
+    <configuration name="DemoDebug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.backend.DemoDebug" />
+      <module name="Testingsystem6-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.frontend.DemoFile" />
+      <module name="Testingsystem6-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.frontend.Program" />
+      <module name="Testing_system_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuyenSinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.frontend.TuyenSinh" />
+      <module name="Testing_system_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sdas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vti.entity.utils.sdas" />
+      <module name="Testing_system_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vti.entity.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoFile" />
+        <item itemvalue="Application.DemoDebug" />
+        <item itemvalue="Application.TuyenSinh" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.sdas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9f84615-6f48-499e-8b21-c78af4b2d11e" name="Default Changelist" comment="" />
+      <created>1677841350323</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677841350323</updated>
+      <workItem from="1677841351611" duration="421000" />
+      <workItem from="1677844894008" duration="3146000" />
+      <workItem from="1677851416444" duration="3524000" />
+      <workItem from="1677861941612" duration="315000" />
+      <workItem from="1678063048872" duration="1635000" />
+      <workItem from="1678090465679" duration="3476000" />
+      <workItem from="1678104079993" duration="10531000" />
+      <workItem from="1678253499655" duration="2628000" />
+      <workItem from="1678267870406" duration="3724000" />
+      <workItem from="1678276911576" duration="5688000" />
+      <workItem from="1678329469369" duration="4488000" />
+      <workItem from="1678701897199" duration="5583000" />
+      <workItem from="1678708819688" duration="3404000" />
+      <workItem from="1678795422201" duration="3092000" />
+      <workItem from="1678881686367" duration="2377000" />
+      <workItem from="1678884411473" duration="5686000" />
+      <workItem from="1678891005774" duration="48000" />
+      <workItem from="1678891072999" duration="607000" />
+      <workItem from="1679285636304" duration="730000" />
+      <workItem from="1680696500914" duration="11000" />
+      <workItem from="1680696766251" duration="21000" />
+      <workItem from="1691997382242" duration="432000" />
+      <workItem from="1692174298255" duration="793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/vti/entity/testingsystem5/exercise2/question2/Student.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Testingsystem6-7/src/com/vti/backend/DemoDebug.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Testingsystem6-7/src/com/vti/backend/DemoDebug.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
